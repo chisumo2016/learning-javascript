@@ -1,0 +1,53 @@
+Table of contents
+
+ - Intro
+ - Quick word before we begin
+ - What we are going to learn in this section
+ - The Setup
+ - Variables
+ - Objects
+ - Arrays
+ - Arithmetic Operators
+ - Functions
+ - Loops
+ - Break and Continue Keywords
+ - If Statements
+ - Switch Statement
+ - Logical and Comparison Operators
+ - Type Coercion
+ - Single vs Double Quotes
+ - Map | Filter | Reduce functions
+ - Callbacks
+ -  Wrap up
+ - Name Exports and Imports
+ - Name Exports and Imports PART 2
+ - Default Exports and Imports
+ - Variable Scope and Let Keyword
+ - Const Keyword
+ - Template Literals
+ - Spread Operators on Arrays
+ - Spread Operators on Objects
+ - Arrow Functions
+ - Lexical and the this keyword
+ - Enhanced Object Properties
+ - Array Destcructuring
+ - Object Destcructuring 
+ - More on object destcructuring
+ - Function Default Parameters
+ - Classes in a nutshell
+ - Creating classes
+ - Inheritance
+ - Static methods
+ - Promises Keynote
+ - Creating Promises
+ - Promise.all
+ - Promises and Fetch API
+ - Generators Keynote
+ - Your first Generator
+ - More on Generators
+ - Coroutines Keynote
+ - Generators Promises and Coroutines
+ - Intro to Async Await
+ - From generators to Async Await
+ - Handling Errors
+ - Wrap up
