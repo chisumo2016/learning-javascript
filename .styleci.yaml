@@ -1,0 +1,15 @@
+php:
+  preset : laravel
+  disable:
+    - no_unused_imports
+  finder:
+    - index.php
+    - server.php
+
+js:
+  finder:
+    not-nname:
+     - webapack.js
+
+css: true
+             
